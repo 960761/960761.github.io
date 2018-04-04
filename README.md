@@ -1,9 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to my knowledge garden
 
 You can use the [editor on GitHub](https://github.com/960761/960761.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 
-### Contents
+## Contents
 
 
 [Click to CSS+HTML part](https://960761.github.io/AboutCSS/)
