@@ -10,3 +10,14 @@ You can use the [editor on GitHub](https://github.com/960761/960761.github.io/ed
 
 
 [Click to JavaScript part](https://960761.github.io/AboutJS/)
+
+## Blogs
+
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
