@@ -11,6 +11,9 @@ You can use the [editor on GitHub](https://github.com/960761/960761.github.io/ed
 
 [Click to JavaScript part](https://960761.github.io/AboutJS/)
 
+
+[Click to Design Pattern](https://github.com/960761/AboutDesignPattern/)
+
 ## Blogs
 
 
