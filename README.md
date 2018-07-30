@@ -19,9 +19,7 @@ You can use the [editor on GitHub](https://github.com/960761/960761.github.io/ed
 
 ## Code Garden
 
-[Code Garden](https://github.com/960761/myCodeGarden)
-
-[Code Garden website](https://960761.github.io/myCodeGarden/)
+[Click to Code Garden](https://960761.github.io/myCodeGarden/)
 
 
 ## Blogs
