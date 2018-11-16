@@ -21,6 +21,10 @@ You can use the [editor on GitHub](https://github.com/960761/960761.github.io/ed
 
 [Click to Code Garden](https://960761.github.io/myCodeGarden/)
 
+## Work Notes
+
+[Click to work notes](https://github.com/960761/960761.github.io/tree/master/workNotes)
+
 
 ## Blogs
 
