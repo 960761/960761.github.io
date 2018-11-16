@@ -33,6 +33,7 @@ You can use the [editor on GitHub](https://github.com/960761/960761.github.io/ed
   {% endfor %}
 </ul>
 
+## Blogs
 <ul>
   {% for post in site.posts.workNotes %}
     <li>
