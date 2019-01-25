@@ -12,6 +12,9 @@ You can use the [editor on GitHub](https://github.com/960761/960761.github.io/ed
 [Click to JavaScript part](https://960761.github.io/AboutJS/)
 
 
+[Click to Java part](https://960761.github.io/AboutJava/)
+
+
 [Click to Design Pattern](https://960761.github.io/AboutDesignPattern/)
 
 
